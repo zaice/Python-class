@@ -6,9 +6,9 @@ a = int(a)
 print(type(a))
 
 if a <= 5:
-    print("You should be go to the nursery-school!")
+    print("You should go to the nursery-school!")
 elif a >= 6 and a <= 17:
-    print("Go to shool and study well!")
+    print("Go to school and study well!")
 elif a >= 18 and a <= 23:
     print("You need to get a job!")
 elif a >= 24 and a <= 64:    
